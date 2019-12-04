@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/damir-ivanic/monster-rolodex/static/css/main.2422eac3.chunk.css",
+    "main.css": "/damir-ivanic/monster-rolodex/static/css/main.912f8758.chunk.css",
     "main.js": "/damir-ivanic/monster-rolodex/static/js/main.2620e90b.chunk.js",
     "main.js.map": "/damir-ivanic/monster-rolodex/static/js/main.2620e90b.chunk.js.map",
     "runtime-main.js": "/damir-ivanic/monster-rolodex/static/js/runtime-main.5f67a8db.js",
@@ -8,14 +8,14 @@
     "static/js/2.98d8564b.chunk.js": "/damir-ivanic/monster-rolodex/static/js/2.98d8564b.chunk.js",
     "static/js/2.98d8564b.chunk.js.map": "/damir-ivanic/monster-rolodex/static/js/2.98d8564b.chunk.js.map",
     "index.html": "/damir-ivanic/monster-rolodex/index.html",
-    "precache-manifest.cc4144282a7b261e0d4504971983ffbf.js": "/damir-ivanic/monster-rolodex/precache-manifest.cc4144282a7b261e0d4504971983ffbf.js",
+    "precache-manifest.d33b1443c8f3314ad1c04857353e982a.js": "/damir-ivanic/monster-rolodex/precache-manifest.d33b1443c8f3314ad1c04857353e982a.js",
     "service-worker.js": "/damir-ivanic/monster-rolodex/service-worker.js",
-    "static/css/main.2422eac3.chunk.css.map": "/damir-ivanic/monster-rolodex/static/css/main.2422eac3.chunk.css.map"
+    "static/css/main.912f8758.chunk.css.map": "/damir-ivanic/monster-rolodex/static/css/main.912f8758.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.5f67a8db.js",
     "static/js/2.98d8564b.chunk.js",
-    "static/css/main.2422eac3.chunk.css",
+    "static/css/main.912f8758.chunk.css",
     "static/js/main.2620e90b.chunk.js"
   ]
 }
